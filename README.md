@@ -18,7 +18,7 @@
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Sa-Te/Flappy-Dragon
    cd your-repo
 
     Build and run the project:
@@ -29,12 +29,12 @@
         Press SPACE to make the dragon flap.
         Avoid obstacles and try to score as high as possible!
 
-##Project Structure
+## Project Structure
 
     main.rs: Contains the main game loop, game state management, and the implementation of the game logic including player movement, obstacle generation, and collision detection.
     Cargo.toml: Contains project metadata and dependency definitions.
 
-##Contributing
+## Contributing
 
 Feel free to fork the repository, submit issues, or create pull requests if you have any suggestions or improvements.
 License
